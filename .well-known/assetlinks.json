@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "de.unitopia.app",
-        "sha256_cert_fingerprints": ["08:D2:45:71:48:D4:3C:80:E9:FD:4A:71:FA:21:3C:95:B6:A7:F0:FC:AD:6C:45:56:59:E7:BC:D9:A6:C8:1C:95"]
+        "sha256_cert_fingerprints": ["E5:D6:CF:69:2B:5F:7F:0A:C8:90:6B:9C:E2:15:21:15:C3:E8:01:13:AA:EB:6E:C2:21:BF:A9:D7:38:83:15:DE"]
       }
     }]
