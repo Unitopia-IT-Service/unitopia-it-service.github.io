@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "de.unitopia.app",
+        "sha256_cert_fingerprints": ["2E:3F:2A:DF:94:B8:D9:85:CF:D0:73:CF:96:FA:99:06:65:BF:E6:55:20:B9:83:38:AD:D0:E9:43:BD:AA:E3:66"]
+      }
+    }]
